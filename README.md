@@ -1,5 +1,5 @@
 # kaggle-weather_and_titanic-model
 - linear model prediction 
-1. titanic
-2. weather
+1. titanic (logistic regresstion)
+2. weather (linear regesstion)
 - dataset by kaggle
